@@ -11,7 +11,7 @@ Para executar a aplicação localmente, siga os passos abaixo:
 1. Clone este repositório em sua máquina:
 
     ```bash
-    git clone https://github.com/echovj/do-it.git
+    https://github.com/echovj/Restic36.git
     ```
 
 2. Navegue até o diretório do projeto:
